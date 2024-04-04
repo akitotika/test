@@ -1,0 +1,303 @@
+{
+  "sections":[
+    {
+      "name":"Actividades",
+      "description":"Seleccione 'Me gusta' para indicar aquellas actividades que le gustarian hacer. Seleccione 'Me disgustaria' para indicar las actividades que le disgustarian hacer o le serian indeferentes.",
+      "questions":[
+        [
+          "Arreglar aparatos eléctricos",
+          "Reparar automóviles",
+          "Arreglar aparatos mecánicos",
+          "Construir cosas con madera",
+          "Tomar un curso de educación técnica",
+          "Tomar un curso de dibujo mecánico",
+          "Tomar un curso de carpintería",
+          "Tomar un curso de mecánica automotriz",
+          "Trabajar con un mecánico o técnico excelente",
+          "Trabajar al aire libre",
+          "Operar máquinas o equipos de motor"
+        ],
+        [
+          "Leer libros o revistas científicas",
+          "Trabajar en un centro de investigación  o en un laboratorio",
+          "Trabajar en un proyecto científico",
+          "Estudiar una teoría científica",
+          "Trabajar con productos químicos",
+          "Aplicar matemáticas a problemas prácticos",
+          "Tomar un curso de física",
+          "Tomar un curso de química",
+          "Tomar un curso de matemáticas",
+          "Tomar un curso de biología",
+          "Estudiar problemas académicos o técnicos"
+        ],
+        [
+          "Trazar, dibujar o pintar",
+          "Diseñar muebles, ropa o carteles",
+          "Ser integrante de una banda, grupo u orquesta",
+          "Tocar un instrumento musical",
+          "Pintar retratos o tomar fotografías",
+          "Escribir novelas u obras de teatro",
+          "Tomar un curso de arte",
+          "Arreglar o componer música de cualquier tipo",
+          "Trabajar con un artista, escritor, o escultor talentoso",
+          "Actuar para otros (bailar, cantar, actuar, etc)",
+          "Leer artículos de arte, literatura, o música"
+        ],
+        [
+          "Conocer educadores o terapeutas importantes",
+          "Leer artículos o libros de sociología",
+          "Trabajar para una obra de caridad",
+          "Ayudar a otros con sus problemas personales",
+          "Estudiar sobre delincuencia juvenil",
+          "Leer artículos o libros de psicología",
+          "Tomar un curso sobre relaciones humanas",
+          "Enseñar en una escuela secundaria",
+          "Supervisar actividades de pacientes con enfermedades mentales",
+          "Enseñar a los adultos",
+          "Trabajar como voluntario"
+        ],
+        [
+          "Aprender estrategias para el éxito en los negocios",
+          "Administrar mi propio negocio",
+          "Asistir a conferencias de ventas",
+          "Tomar un curso corto de administración o liderazgo",
+          "Actuar como oficial/director de un grupo",
+          "Supervisar el trabajo de otros",
+          "Conocer ejecutivos y líderes importantes",
+          "Dirigir a un grupo para alcanzar una meta",
+          "Participar en una campaña política",
+          "Actuar como un asesor de empresas o negocios",
+          "Leer artículos o revistas de negocios"
+        ],
+        [
+          "Llenar declaraciones o formularios de impuestos",
+          "Sumar, restar, multiplicar, y dividir números (relacionados con negocios o contabilidad)",
+          "Utilizar equipos de oficina",
+          "Llevar cuentas detalladas de gastos",
+          "Establecer un sistema para llevar cuentas",
+          "Tomar un curso de contabilidad",
+          "Tomar un curso de matemáticas comerciales",
+          "Llevar un inventario de suministros o productos",
+          "Verificar documentos o productos para detectar errores o fallas",
+          "Actualizar archivos",
+          "Trabajar en una oficina"
+        ]
+      ]
+    },
+    {
+      "name":"Habilidades",
+      "description":"Selecciona la respuesta para indicar Si puede hacer bien o de manera competente dicha actividad. Seleccione No para indicar aquellas actividades que nunca ha realizado o que realiza de manera deficiente.",
+      "questions":[
+        [
+          "He usado herramientas eléctricas para trabajos en madera tales como sierra, torno o lijadora",
+          "Puedo hacer un dibujo a escala",
+          "Puedo cambiar el aceite o la llanta de un automóvil",
+          "He usado herramientas eléctricas tales como una prensa taladradora, afiladora o máquina de coser",
+          "Puedo restaurar muebles o artículos de madera",
+          "Puedo hacer reparaciones eléctricas o sencillas",
+          "Puedo reparar muebles",
+          "Puedo usar muchas herramientas de carpintería",
+          "Puedo hacer reparaciones de plomería sencillas",
+          "Puedo construir artículos sencillos de madera",
+          "Puedo pintar las habitaciones de una casa o un apartamento"
+        ],
+        [
+          "Puedo usar algebra para solucionar problemas matemáticos",
+          "Puedo realizar un experimento o una encuesta científico(a)",
+          "Entiendo la 'vida-media' de un elemento radioactivo",
+          "Puedo usar tablas de logaritmos",
+          "Puedo usar una computadora para estudiar un problema científico",
+          "Puedo describir la función de los glóbulos blancos",
+          "Puedo interpretar formulas químicas sencillas",
+          "Entiendo por qué los satélites artificiales no caen a la tierra",
+          "Puedo escribir un informe científico",
+          "Entiendo la teoría universal del 'Gran estallido'",
+          "Entiendo la función del ADN en la genética"
+        ],
+        [
+          "Puedo tocar un instrumento musical",
+          "Puedo participar en un coro de dos o cuatro personas",
+          "Puedo cantar un solo musical",
+          "Puedo actuar en una obra de teatro",
+          "Puedo hacer lecturas interpretativas",
+          "Puedo pintar, usar acuarelas, o hacer esculturas",
+          "Puedo arreglar, o componer música",
+          "Puedo diseñar ropa, carteles o muebles",
+          "Soy bueno(a) para escribir cuentos o poesía",
+          "Puedo escribir un discurso",
+          "Puedo tomar fotografías atractivas"
+        ],
+        [
+          "Se me hace fácil hablar con todo tipo de personas",
+          "Soy bueno(a) explicando cosas a otras personas",
+          "Podría trabajar como organizador del vecindario",
+          "Las personas me buscan para contarme sus preocupaciones",
+          "Puedo enseñar a niños fácilmente",
+          "Puedo enseñar a adultos fácilmente",
+          "Soy bueno(a) para ayudar a personas que están afligidas o preocupadas",
+          "Entiendo bien las relaciones sociales",
+          "Soy bueno(a) para enseñar a otros",
+          "Soy bueno(a) para hacer sentir a gusto a las personas",
+          "Trabajo mucho mejor con personas que con cosas o ideas"
+        ],
+        [
+          "Sé cómo ser un líder exitoso",
+          "Soy un buen orador público",
+          "Puedo administrar una campaña de ventas",
+          "Puedo organizar el trabajo de otros",
+          "Soy una persona ambiciosa y asertiva",
+          "Soy bueno(a) en lograr que las personas hagan las cosas a mi manera",
+          "Soy un buen vendedor",
+          "Soy un buen argumentador",
+          "Puedo ser muy persuasivo",
+          "Tengo buenas destrezas para planificar",
+          "Tengo algunas destrezas de liderazgo"
+        ],
+        [
+          "Puedo archivar correspondencia y otros papeles",
+          "He tenido un trabajo de oficina",
+          "Puedo usar una máquina de correo automática",
+          "Puedo completar mucho trabajo en papeles en poco tiempo",
+          "Puedo usar equipos sencillos de procesamiento de datos",
+          "Puedo registrar débitos y créditos en los libros",
+          "Puedo mantener records precisos de pagos o ventas",
+          "Puedo registrar información en un terminal de computadora",
+          "Puedo escribir correspondencia de negocios",
+          "Puedo realizar algunas actividades rutinarias de oficina",
+          "Soy una persona cuidadosa y ordenada"
+        ]
+      ]
+    },
+    {
+      "name":"Ocupaciones",
+      "description":"Este es un inventario de sus sentimientos y actitudes hacia muchos tipos de trabajo. Indique las ocupaciones que le interesan o le llaman la atención seleccionando Si. Especifique las ocupaciones que le desagradan o que no le interesan, seleccionando No.",
+      "questions":[
+        [
+          "Mecánico de aviación",
+          "Mecánico automotriz",
+          "Carpintero",
+          "Conductor de camión",
+          "Agrimensor",
+          "Inspector de construcción",
+          "Mecánico de radio",
+          "Ingeniero de ferrocarril",
+          "Maquinista",
+          "Electricista",
+          "Agricultor",
+          "Piloto de helicóptero",
+          "Técnico electrónico",
+          "Soldador"
+        ],
+        [
+          "Meteorólogo",
+          "Biólogo",
+          "Astrónomo",
+          "Técnico de laboratorio médico",
+          "Antropólogo",
+          "Químico",
+          "Investigador científico independiente",
+          "Autor de artículos científicos",
+          "Geólogo",
+          "Botánico",
+          "Investigador científico contratado",
+          "Físico",
+          "Investigador de ciencias sociales",
+          "Analista ambiental"
+        ],
+        [
+          "Poeta",
+          "Músico",
+          "Novelista",
+          "Actor/Actriz",
+          "Escritor independiente",
+          "Arreglista de música",
+          "Periodista",
+          "Artista",
+          "Cantante",
+          "Compositor",
+          "Escultor",
+          "Autor de obras de teatro",
+          "Caricaturista",
+          "Animador"
+        ],
+        [
+          "Consejero vocacional",
+          "Sociólogo",
+          "Profesor de secundaria",
+          "Consejero de abuso de sustancias",
+          "Experto en delincuencia juvenil",
+          "Terapeuta lingüístico",
+          "Consejero matrimonial",
+          "Psicólogo clínico",
+          "Profesor de ciencias sociales",
+          "Consejero personal",
+          "Director de campamento juvenil",
+          "Trabajador social",
+          "Consejero de rehabilitación",
+          "Director de jardín infantil"
+        ],
+        [
+          "Comprador",
+          "Ejecutivo de publicidad",
+          "Representante de fábricas",
+          "Ejecutivo empresarial",
+          "Maestro de ceremonias",
+          "Vendedor",
+          "Vendedor de bienes raíces",
+          "Gerente de tienda por departamentos",
+          "Gerente de ventas",
+          "Ejecutivo de relaciones públicas",
+          "Gerente de un canal de televisión",
+          "Dueño de un pequeño negocio",
+          "Legislador",
+          "Gerente de aeropuerto"
+        ],
+        [
+          "Tenedor de libros ('Bookkeeper')",
+          "Revisor de presupuesto",
+          "Contador Público Certificado 'CPA'",
+          "Investigador de crédito",
+          "Cajero de banco",
+          "Experto en impuestos",
+          "Contralor de inventarios",
+          "Operador de computadora",
+          "Analista financiero",
+          "Tasador de costos",
+          "Auxiliar de nómina",
+          "Examinador bancario",
+          "Auxiliar de contabilidad",
+          "Auxiliar de auditoria"
+        ]
+      ]
+    },{
+      "name":"Auto-evaluaciones",
+      "description":"Evalúese a sí mismo(a) en cada una de las siguientes características en comparación con otas personas de su misma edad. Proporcione la evaluación más exacta de como usted se ve a sí mismo. Seleccione el numero apropiado y evite darse la misma puntación en cada habilidad.",
+      "questions":[
+        [
+          "Habilidad Mecánica",
+          "Destrezas Manuales"
+        ],
+        [
+          "Habilidad Científica",
+          "Habilidad Matemática"
+        ],
+        [
+          "Habilidad Artística",
+          "Habilidad Musical"
+        ],
+        [
+          "Habilidad para enseñar",
+          "Entendimiento de otros"
+        ],
+        [
+          "Habilidad para ventas",
+          "Habilidad Gerencial"
+        ],
+        [
+          "Habilidad de oficinista",
+          "Destrezas de oficina"
+        ]
+      ]
+    }
+  ]
+}
